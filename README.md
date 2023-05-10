@@ -52,7 +52,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=KhaledBadranDev](https://github-readme-stats.vercel.app/api/top-langs?username=vncharles)&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![VNCharles GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=vncharles&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
 
