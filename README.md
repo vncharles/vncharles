@@ -22,8 +22,8 @@
 <a href="https://www.facebook.com/vn.charles132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vn.charles132/" height="30" width="40" /></a>
 </p>
 
+<br>
 <!-- Languages and Tools -->
-
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
