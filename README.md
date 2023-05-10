@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tranquoctrong130202@gmail.com**
 
-- 📄 My CV: **https://www.topcv.vn/xem-cv/AlFTVAEGVlBUX1xRU1JTBgAGAFBQVFMOUwVSUw828e**
+- 📄 My CV: ** <a href="[url](https://drive.google.com/file/d/1-5NynIGOBsGde3Csnn8XFDZk9lyAxRGM/view?usp=sharing)">Click me</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
