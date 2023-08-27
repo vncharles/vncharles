@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tranquoctrong130202@gmail.com**
 
-- 📄 My CV: **<a href="https://drive.google.com/file/d/1-5NynIGOBsGde3Csnn8XFDZk9lyAxRGM/view?usp=sharing">Click me</a>**
+- 📄 My CV: **<a href="https://drive.google.com/file/d/1lrHmLkMU1D3O9__ZD79mMGBN5i_QwZ9b/view?usp=sharing">Click</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
